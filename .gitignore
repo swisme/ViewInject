@@ -1,0 +1,9 @@
+#Gradle
+build
+.gradle
+
+.idea
+
+ViewInject.iml
+
+gradle
